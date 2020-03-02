@@ -3,7 +3,7 @@ Star Wars pilots
 
 ## Most accomplished
 
-Below we look at which 5 characters from Star Wars are the most
+Below we look at which 5 characters from Star Wars are the least
 accomplished pilot (flew the fewest number of starships):
 
 | Character      | Number of Starships piloted |
